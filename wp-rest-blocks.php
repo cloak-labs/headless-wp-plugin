@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name:       Next-WP - REST API Blocks
- * Plugin URI:        https://github.com/Stikky-Media/next-wp-plugins
+ * Plugin Name:       Headless WP
+ * Plugin URI:        https://github.com/cloak-labs/headless-wp-plugin
  * Description:       Add gutenberg blocks data into post / page / widget REST API endpoints. 
- * Author:            Stikky Media
+ * Author:            Cloak Labs
  * Author URI:        https://www.stikkymedia.com/
  * Text Domain:       wp-rest-blocks
  * Domain Path:       /languages
