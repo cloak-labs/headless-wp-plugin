@@ -1,4 +1,4 @@
-This plugin was revamped and relaunched as the [CloakWP Plugin](https://github.com/cloak-labs/cloakwp-plugin). Go there.
+This plugin was revamped and relaunched as the CloakWP Plugin (https://github.com/cloak-labs/cloakwp-plugin). Go there.
 
 === REST API blocks ===
 Contributors: stikky-media
