@@ -1,3 +1,5 @@
+This plugin was revamped and relaunched as the [CloakWP Plugin](https://github.com/cloak-labs/cloakwp-plugin). Go there.
+
 === REST API blocks ===
 Contributors: stikky-media
 Tags: blocks, gutenberg, api, wp-json, rest-api
